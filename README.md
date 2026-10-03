@@ -43,7 +43,7 @@ On October 1, I noticed that a feature request I contributed to back in March in
 
 With Fall approaching, more time is being spent on indoor activities which means more time with the train layout.  In March 2026 I finished all of the shield and module design and testing and ordered all of the components and custom made boards to retrofit all my C/MRI nodes.  I assembled all of the modules and also designed and CNC'd panels to organize and support each node with all of it's modules.  I also pre-wired all of the data lines for four of the nine new panels.  
 
-It is now time to start the conversion and I started with the new Node 11.  I took the opportunity to re-make all of the data lines between the sensor devices and the panel and completed the whole conversion after a few days.  I've been "burning" it in to ensure it's just as reliable in operation as it's RS-485 counterpart.  Below is a picture of the new node installed.
+It is now time to start the conversion and I started with the new Node 11.  I took the opportunity to re-make all of the data lines between the sensor devices and the panel and completed the whole conversion after a few days.  I've been "burning" it in to ensure it's just as reliable in operation as it's RS-485 counterpart.  Below is a picture of the new node installed with four I/R Sensor and two lighting modules.
 
 ![Picture of Node 11 Installed on Train Layout](Node11.jpg)
 
